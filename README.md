@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/logo.png" alt="bkg-peer — P2P Agent Network" width="320" />
-</p>
-
 <h1 align="center">bkg-peer</h1>
 
 <p align="center"><strong>Decentralized P2P AI Agent Network</strong></p>
